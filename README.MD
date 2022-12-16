@@ -3,6 +3,10 @@
 <h2>Micro service inventory-service<h2>
 <img src="img/prod.PNG">
 <h2>Gateway<h2>
+<h2>Static<h2>
+<img src="img/customersta.PNG">
+<img src="img/productstat.PNG">
+<h2>Dynamic<h2>
 <img src="img/customer.PNG">
 <img src="img/customer1.PNG">
 <img src="img/products.PNG">
